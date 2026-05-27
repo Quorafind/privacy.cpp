@@ -1,0 +1,114 @@
+Policy Number: AIG-HOME-2024-558291
+Claim Number: CLM-2024-10-28847
+Date of Loss: October 15, 2024
+
+Ms. Gonzalez-Rivera reported water damage at her residence, 456 Palm Court, Miami, FL 33139. She can be reached at mariagr@hotmail.com or (305) 555-1847. Her adjuster is Thomas Blake, thomas.blake@aig-claims.com, direct line (800) 555-2943.
+
+Estimated damage: $47,500. Ms. Gonzalez-Rivera's mortgage is held by Bank of America, loan number BOA-MTG-29847163. The property is also insured under flood policy NFIP-FL-2024-883921.
+
+Contractor selected for repairs: Miami Restoration Services, contact Carlos Mendez at carlos@miami-restoration.com, (305) 555-6634. Business license FL-CRC-2024-129847.
+
+SECTION 8: ACADEMIC RECORDS
+
+Student: Alexander Petrov
+Student ID: STU-2024-0082847
+Date of Birth: April 29, 2002
+University: Massachusetts Institute of Technology
+Major: Computer Science and Mathematics (dual degree)
+
+Permanent address: 12 Birch Lane, Greenwich, CT 06830
+Campus address: 77 Massachusetts Avenue, Room 36-156, Cambridge, MA 02139
+Personal email: alex.petrov@gmail.com
+University email: apetrov@mit.edu
+Phone: (203) 555-4429
+Parent contact: Dr. Nikolai Petrov, nikolai.petrov@yale.edu, (203) 555-8812
+
+Financial aid: Federal Pell Grant, institutional scholarship #MIT-MERIT-2024-447. FAFSA application EFC: $12,500. Parent AGI reported: $285,000 (2023 tax year). 529 account at Fidelity: 7729481035.
+
+GPA: 3.92/4.00. SAT Score: 1580 (March 2020 administration).
+
+SECTION 9: TECH INFRASTRUCTURE
+
+Server Access Credentials (ROTATE IMMEDIATELY AFTER REVIEW):
+Production DB: PostgreSQL at db-prod-01.internal.techcorp.com:5432
+Username: admin_prod_db
+Password: Kx9$mP2!vL8nQ4wR
+API Gateway: https://api.techcorp-innovations.com/v3
+API Key: sk_live_4eC39HqLyjWDarjtT1zdp7dc
+JWT Secret: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkw
+AWS Account ID: 123456789012
+S3 Bucket: s3://techcorp-prod-data-us-west-2
+SSH Key Fingerprint: SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+
+VPN Configuration for remote engineers:
+Server: vpn.techcorp-innovations.com
+Pre-shared key: aB3$cD5&eF7*gH9!
+Certificate CN: *.techcorp-innovations.com
+DNS: 10.0.1.53, 10.0.1.54
+
+SECTION 10: CUSTOMER SUPPORT TICKETS
+
+Ticket #CS-2024-884291
+Customer: Priya Sharma
+Email: priya.sharma.design@gmail.com
+Phone: +91 98765 43210
+Account ID: CUST-IN-2024-00847
+Location: 42 MG Road, Indiranagar, Bangalore, Karnataka 560038, India
+
+Issue: Customer's credit card ending in 9284 was charged twice for order #ORD-2024-IN-558847 placed on November 1, 2024. Amount: INR 15,750 (approximately $188 USD). Refund issued to Visa card ending in 9284 on November 5, 2024. Refund reference: REF-2024-IN-994827.
+
+---
+
+Ticket #CS-2024-884523
+Customer: James O'Malley
+Email: jomalley@outlook.ie
+Phone: +353 85 555 2847
+Account ID: CUST-IE-2024-01284
+Shipping address: 15 Grafton Street, Flat 3, Dublin 2, D02 VX82, Ireland
+
+Issue: Package tracking number 1Z999AA10123456784 shows delivered but customer did not receive. Replacement order #ORD-2024-IE-559012 shipped via DHL, new tracking: JD014600003291828700. James provided alternate delivery address: c/o Murphy's Pub, 28 Temple Bar, Dublin 2, D02 YH93, Ireland.
+
+SECTION 11: FINANCIAL PLANNING
+
+Client: Dr. Elizabeth Warren-Cooper and Mr. Thomas Cooper
+Joint Account: Merrill Lynch WMA-4829173650
+Financial Advisor: Christopher Yang, CFA, christopher.yang@ml.com, (415) 555-7700
+
+Portfolio Summary (as of November 30, 2024):
+- Brokerage: $1,250,000
+- IRA (Elizabeth): $485,000, Account #IRA-8829401
+- 401(k) rollover (Thomas): $312,000, Account #401K-7729183
+- 529 Plan (for twins Sophie and Oliver, DOB: May 14, 2018): $175,000
+
+Elizabeth's practice: Warren-Cooper Dermatology, 890 Pacific Avenue, Suite 200, San Francisco, CA 94133. EIN: 94-3829174. Practice email: info@warrencooper-derm.com. Elizabeth's NPI: 1987654321.
+
+Thomas works at Google, employee ID G-2024-TPC-8847. His work email is tcooper@google.com and his badge number is GBG-447291.
+
+Annual household income: approximately $850,000. Target retirement: 2045. Risk tolerance: moderate-aggressive.
+
+SECTION 12: TRAVEL AND EXPENSE REPORT
+
+Employee: Samantha Liu (Employee ID: EMP-2024-SL-4429)
+Department: Business Development
+Trip: Tokyo Client Visit, November 10-17, 2024
+Corporate card: Amex ending in 7284
+
+Flights:
+- United UA837, SFO-NRT, Nov 10, Seat 4A, Ticket #0167284891023
+- ANA NH7, NRT-SFO, Nov 17, Seat 2K, Ticket #2057284990148
+
+Hotel: Park Hyatt Tokyo, Nov 10-16, Confirmation #PH-TYO-2024-884291
+Rate: JPY 65,000/night (approximately $430 USD/night)
+
+Client meetings:
+- Kenji Nakamura, CEO, Sakura Technologies, k.nakamura@sakura-tech.co.jp, +81 3 5555 4892
+- Ayumi Watanabe, CTO, a.watanabe@sakura-tech.co.jp, +81 90 5555 2847
+
+Samantha's corporate phone: (415) 555-9912
+Personal phone: (510) 555-3384
+Hotel WiFi password during stay: ParkHyatt#2024!Guest
+
+Total expenses claimed: $8,247.50
+Approved by: VP James Patterson, j.patterson@techcorp-innovations.com
+
+END OF CONFIDENTIAL ARCHIVE

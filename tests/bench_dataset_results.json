@@ -1,0 +1,72 @@
+{
+  "samples": 500,
+  "errors": 0,
+  "overall": {
+    "precision": 0.9802,
+    "recall": 0.96,
+    "f1": 0.97,
+    "tp": 841,
+    "fp": 17,
+    "fn": 35
+  },
+  "per_label": {
+    "account_number": {
+      "precision": 0.9524,
+      "recall": 0.9524,
+      "f1": 0.9524,
+      "tp": 20,
+      "fp": 1,
+      "fn": 1
+    },
+    "private_address": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 147,
+      "fp": 0,
+      "fn": 0
+    },
+    "private_date": {
+      "precision": 0.9107,
+      "recall": 0.9162,
+      "f1": 0.9134,
+      "tp": 153,
+      "fp": 15,
+      "fn": 14
+    },
+    "private_email": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 144,
+      "fp": 0,
+      "fn": 0
+    },
+    "private_person": {
+      "precision": 0.9956,
+      "recall": 0.9912,
+      "f1": 0.9934,
+      "tp": 225,
+      "fp": 1,
+      "fn": 2
+    },
+    "private_phone": {
+      "precision": 1.0,
+      "recall": 0.8824,
+      "f1": 0.9375,
+      "tp": 135,
+      "fp": 0,
+      "fn": 18
+    },
+    "private_url": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 17,
+      "fp": 0,
+      "fn": 0
+    }
+  },
+  "avg_latency_ms": 850.2,
+  "total_seconds": 425.1
+}

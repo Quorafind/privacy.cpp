@@ -1,0 +1,56 @@
+# Build outputs
+/build/
+/out/
+/dist/
+/install/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Testing/
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# Visual Studio / IDE files
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+compile_commands.json
+
+# Local runtime/model files
+/model/
+/models/**
+!/models/
+!/models/privacy-ner-v1/
+!/models/privacy-ner-v1/README.txt
+*.safetensors
+*.onnx
+*.gguf
+*.bin
+*.idx
+
+# Local Rebon/session files
+/.rebon/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+nul
+*.log

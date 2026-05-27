@@ -1,0 +1,116 @@
+{
+  "samples": 499,
+  "spans": 864,
+  "model_only": {
+    "overall": {
+      "precision": 0.8961,
+      "recall": 0.7789,
+      "f1": 0.8334
+    },
+    "per_label": {
+      "private_person": {
+        "f1": 0.8802
+      },
+      "private_email": {
+        "f1": 0.7913
+      },
+      "private_phone": {
+        "f1": 0.7756
+      },
+      "account_number": {
+        "f1": 0.8085
+      },
+      "secret": {
+        "f1": 0.9796
+      },
+      "private_address": {
+        "f1": 0.8846
+      },
+      "private_date": {
+        "f1": 0.876
+      },
+      "private_url": {
+        "f1": 0.1333
+      }
+    },
+    "per_lang": {
+      "English": {
+        "f1": 0.9341
+      },
+      "Japanese": {
+        "f1": 0.0519
+      },
+      "German": {
+        "f1": 0.964
+      },
+      "Spanish": {
+        "f1": 1.0
+      },
+      "Korean": {
+        "f1": 0.18
+      },
+      "Chinese": {
+        "f1": 0.2456
+      },
+      "French": {
+        "f1": 0.9921
+      }
+    }
+  },
+  "model_regex": {
+    "overall": {
+      "precision": 0.9043,
+      "recall": 0.853,
+      "f1": 0.8779
+    },
+    "per_label": {
+      "private_person": {
+        "f1": 0.8824
+      },
+      "private_email": {
+        "f1": 0.7946
+      },
+      "private_phone": {
+        "f1": 0.8537
+      },
+      "account_number": {
+        "f1": 0.902
+      },
+      "secret": {
+        "f1": 1.0
+      },
+      "private_address": {
+        "f1": 0.9884
+      },
+      "private_date": {
+        "f1": 0.9057
+      },
+      "private_url": {
+        "f1": 1.0
+      }
+    },
+    "per_lang": {
+      "English": {
+        "f1": 0.9826
+      },
+      "Japanese": {
+        "f1": 0.2529
+      },
+      "German": {
+        "f1": 0.964
+      },
+      "Spanish": {
+        "f1": 1.0
+      },
+      "Korean": {
+        "f1": 0.198
+      },
+      "Chinese": {
+        "f1": 0.4375
+      },
+      "French": {
+        "f1": 1.0
+      }
+    }
+  }
+}

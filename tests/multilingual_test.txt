@@ -1,0 +1,124 @@
+MULTILINGUAL PRIVACY DETECTION TEST DOCUMENT
+
+SECTION 1: 中文 - 人事档案
+
+新员工入职：张伟（工号：EMP-2024-CN-0088）。张伟的身份证号码：110101199003078899，手机号：13812345678，紧急联系人：母亲李秀英，电话：13698765432。家庭住址：北京市朝阳区建国路88号院3号楼1502室。个人邮箱：zhangwei1990@163.com，工作邮箱：zhang.wei@techcorp.cn。
+
+客户信息：王芳女士，护照号E12345678，银行账号6222021234567890123，开户行中国工商银行北京分行。社保号：京2024-98765。联系电话：+86-10-6543-2100。邮箱：wangfang@qq.com。住址：上海市浦东新区陆家嘴环路1000号。
+
+SECTION 2: 日本語 - 患者カルテ
+
+患者：山田太郎（やまだたろう）
+生年月日：1985年3月15日
+マイナンバー：123456789012
+住所：東京都渋谷区神宮前1-2-3 メゾン渋谷401号室
+電話番号：03-1234-5678
+携帯：090-9876-5432
+メール：taro.yamada@gmail.com
+
+紹介状：佐藤医師（NPI: 1234567890）より山田太郎を田中花子医師に紹介。田中医師の連絡先：tanaka.hanako@hospital.jp、電話：03-5555-1234。処方箋送付先FAX：03-5555-1235。
+
+SECTION 3: 한국어 - 고객 정보
+
+고객명: 김민수
+주민등록번호: 900315-1234567
+전화번호: 010-9876-5432
+이메일: minsu.kim@naver.com
+주소: 서울특별시 강남구 테헤란로 152, 강남파이낸스센터 23층
+
+김민수 고객의 계좌번호: 110-123-456789 (국민은행). 신용카드 번호: 5432-1234-5678-9012, 유효기간 12/26. 긴급연락처: 배우자 박지연, 전화 010-1234-5678.
+
+SECTION 4: Deutsch - Rechtsakte
+
+Mandant: Max Müller, geboren am 15.03.1985
+Personalausweisnummer: T220001293
+Anschrift: Berliner Straße 42, 10115 Berlin, Deutschland
+Telefon: +49 30 12345678
+E-Mail: max.mueller@web.de
+Krankenversicherungsnummer: A123456789
+Steuer-ID: 12 345 678 901
+
+Rechtsanwalt: Dr. Anna Schmidt, Kanzlei Schmidt & Partner, Friedrichstraße 100, 10117 Berlin. Telefon: +49 30 98765432. E-Mail: a.schmidt@kanzlei-schmidt.de.
+
+Bankverbindung: Deutsche Bank AG, IBAN: DE89370400440532013000, BIC: COBADEFFXXX.
+
+SECTION 5: Français - Dossier médical
+
+Patient: Pierre Dupont
+Date de naissance: 22/07/1990
+Numéro de sécurité sociale: 1 90 07 75 056 006 85
+Adresse: 15 Rue de Rivoli, 75001 Paris, France
+Téléphone: +33 1 42 60 12 34
+Email: pierre.dupont@orange.fr
+
+Médecin traitant: Dr. Marie Laurent, Cabinet Médical Saint-Honoré, 8 Avenue des Champs-Élysées, 75008 Paris. Téléphone: +33 1 55 44 33 22. Email: m.laurent@cabinet-sthonore.fr.
+
+Mutuelle: AXA Santé, numéro d'adhérent: AXA-2024-778899. Compte bancaire: FR7630004000031234567890143.
+
+SECTION 6: Русский - Личное дело
+
+Пациент: Иванов Сергей Петрович
+Паспорт: 4515 123456
+Дата рождения: 05.11.1978
+Телефон: +7 495 123-45-67
+Email: ivanov@yandex.ru
+Адрес: г. Москва, ул. Тверская, д. 15, кв. 42, 125009
+
+Лечащий врач: Петрова Елена Викторовна, тел. +7 495 987-65-43, email: petrova@clinic.ru. СНИЛС пациента: 123-456-789 01. ИНН: 770312345678.
+
+SECTION 7: العربية - بيانات العميل
+
+المريض: أحمد محمد علي
+رقم الهوية: 1234567890
+الهاتف: +966-12-345-6789
+البريد الإلكتروني: ahmed.ali@example.sa
+العنوان: الرياض، شارع الملك فهد، مبنى 45، الطابق 3
+
+الطبيب المعالج: د. فاطمة حسن، هاتف: +966-11-987-6543، بريد: dr.fatima@hospital.sa. رقم الحساب البنكي: SA0380000000608010167519.
+
+SECTION 8: 多语言混合 - Mixed Language Records
+
+用户王芳（英文名Fang Wang），护照号G87654321，目前在日本东京工作。
+日本住址：東京都港区六本木3-4-5 六本木ヒルズ2205号室。
+日本电话：+81-3-9876-5432
+中国手机：+86-138-0013-8000
+工作邮箱：fang.wang@company.jp
+个人邮箱：wangfang_personal@gmail.com
+
+Emergency contact: David Chen, phone +1-415-555-7890, email david.chen@outlook.com.
+European office: contact Marie Dubois at +33-6-1234-5678 or marie.dubois@company.eu.
+
+SECTION 9: 技术基础设施 - Tech Infrastructure
+
+服务器凭证（审阅后请立即轮换）:
+数据库主机: PostgreSQL at 192.168.1.100:5432
+用户名: db_admin_prod
+密码: Sup3r$ecretP@ss2024!
+API密钥: sk-proj-abc123def456ghi789jkl012mno345
+AWS账户: 123456789012
+S3存储桶: s3://company-data-backup-prod/sensitive/
+
+VPN配置:
+服务器: vpn.internal.company.jp
+预共享密钥: xK9#mN2$pQ5&vR8!
+证书CN: *.internal.company.jp
+DNS: 10.0.0.53, 10.0.0.54
+
+SSH密钥指纹: SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+
+SECTION 10: 金融记录 - Financial Records
+
+客户：Thomas Warren 和 Elizabeth Warren-Cooper
+联合账户: WM-2024-JT-0089234
+财务顾问: Jennifer Martinez, CFA, jennifer.martinez@wealth-mgmt.com, +1-212-555-3456
+
+投资组合:
+- 证券账户: $1,250,000, 账号 7734-2289-0012
+- IRA (Elizabeth): $485,000, 账号 IRA-2024-EC-445
+- 401(k) (Thomas): $312,000, 账号 401K-TW-2024-889
+
+Elizabeth的诊所: Warren-Cooper Dermatology, 450 Medical Center Drive, Suite 200, Palo Alto, CA 94301。EIN: 94-3829174。诊所邮箱: info@warrencooper-derm.com。NPI: 1234567890。
+
+Thomas在Google工作，工号GOOG-2024-TW-4421，工作邮箱thomas.warren@google.com，门禁卡号B-44521。
+
+END OF MULTILINGUAL TEST DOCUMENT
